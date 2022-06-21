@@ -16,7 +16,7 @@ mccabe==0.6.1
 more-itertools==7.0.0
 mpld3==0.3
 networkx==2.3
-numpy==1.16.2
+numpy==1.22.0
 packaging==19.0
 pandas==0.24.2
 pluggy==0.12.0
